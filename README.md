@@ -9,6 +9,6 @@ SocialCDE for Eclipse is part of a research project on Social Software Engineeri
 # Documentation
 (coming soon)
 # Release History
-Varsion 0.1.0 available
+(coming soon)
 # License
 Microsoft Public License (Ms-PL).
